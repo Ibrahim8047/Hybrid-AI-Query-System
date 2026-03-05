@@ -1,5 +1,9 @@
 # Hybrid AI Query System
 
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/9HjgJrcm4nM/0.jpg)](https://youtu.be/9HjgJrcm4nM)
+
 ## About the Project
 
 Hybrid AI Query System is a simple data analytics application built using **Streamlit and Python**.
