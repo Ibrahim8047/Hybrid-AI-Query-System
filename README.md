@@ -2,7 +2,12 @@
 
 ## 🎥 Project Demo
 
-[![Watch the video](https://img.youtube.com/vi/9HjgJrcm4nM/0.jpg)](https://youtu.be/9HjgJrcm4nM)
+
+https://github.com/user-attachments/assets/c46f4385-b9d2-4c38-97a0-1e5a9764b721
+
+
+
+
 
 ## About the Project
 
